@@ -26,7 +26,7 @@ Organate is an effort to make donation of organs easier. Any user can request a 
 
 
 ### User View
-![Screenshot](/readme-images/ss4.png)
+
 
 
 
