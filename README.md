@@ -11,18 +11,12 @@ Organate is an effort to make donation of organs easier. Any user can request a 
 
 ---
 
-# Glimpses of the UI
-
-### Home Page
-![Screenshot](/readme-images/ss1.png)
 
 
-### Another screenshot of home page
-![Screenshot](/readme-images/ss2.png)
 
 
-### Signup View
-![Screenshot](/readme-images/ss3.png)
+
+
 
 
 ### User View
